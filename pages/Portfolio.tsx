@@ -9,11 +9,11 @@ import Skills from '../sections/Skills';
 const Portfolio = () => (
   <div>
     <Navbar />
-    <About />
     <Header />
+    <About />
+    <Skills />
     <Services />
     <Contact />
-    <Skills />
   </div>
 );
 
