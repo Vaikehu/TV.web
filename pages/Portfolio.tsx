@@ -1,8 +1,9 @@
 import * as React from 'react';
+import Navbar from '../sections/Navbar';
 
 const Portfolio = () => (
   <div>
-    <h2>Portfolio</h2>
+    <Navbar />
   </div>
 );
 
