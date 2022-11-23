@@ -12,12 +12,12 @@ const Services = () => {
         </div>
         <div className="row">
           <div className="col-lg-4">
-            <div className="card mb-5 mx-auto mb-5" style="width: 18rem">
+            <div className="card mb-5 mx-auto mb-5" style={{"width: 18rem"}}>
               <img
                 src="https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/03/Web-Developer-Bootcamp-San-Francisco.jpeg"
                 className="card-img-top w-100 img-fluid"
                 alt="..."
-                style="height: 150px !important"
+                style={{"height: 150px !important"}}
               />
               <div className="card-body text-center p-5">
                 <h3>Frontend Development</h3>
@@ -29,12 +29,12 @@ const Services = () => {
             </div>
           </div>
           <div className="col-lg-4">
-            <div className="card mb-5 mx-auto mb-5" style="width: 18rem">
+            <div className="card mb-5 mx-auto mb-5" style={{"width: 18rem"}}>
               <img
                 src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/07/front-end-developer.jpg"
                 className="card-img-top w-100 img-fluid"
                 alt="..."
-                style="height: 150px !important"
+                style={{"height: 150px !important"}}
               />
               <div className="card-body text-center p-5">
                 <h3>backend Development</h3>
@@ -46,12 +46,12 @@ const Services = () => {
             </div>
           </div>
           <div className="col-lg-4">
-            <div className="card mb-5 mx-auto mb-5" style="width: 18rem">
+            <div className="card mb-5 mx-auto mb-5" style={{"width: 18rem"}}>
               <img
                 src="https://tolustar.com/wp-content/uploads/2020/02/Front-end-Development.jpeg"
                 className="card-img-top w-100 img-fluid"
                 alt="..."
-                style="height: 150px !important"
+                style={{"height: 150px !important"}}
               />
               <div className="card-body text-center p-5">
                 <h3>Data Base Management</h3>

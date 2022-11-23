@@ -29,7 +29,7 @@ const Skills = () => {
                 className="progress-bar bg-danger"
                 role="progressbar"
                 aria-label="Success example"
-                style="width: 80%"
+                style={{"width: 80%"}}
                 aria-valuenow="80"
                 aria-valuemin="0"
                 aria-valuemax="100"
@@ -42,7 +42,7 @@ const Skills = () => {
                 className="progress-bar bg-promary"
                 role="progressbar"
                 aria-label="Info example"
-                style="width: 75%"
+                style={{"width: 75%"}}
                 aria-valuenow="75"
                 aria-valuemin="0"
                 aria-valuemax="100"
@@ -55,7 +55,7 @@ const Skills = () => {
                 className="progress-bar bg-warning"
                 role="progressbar"
                 aria-label="Warning example"
-                style="width: 60%"
+                style={{"width: 60%"}}
                 aria-valuenow="60"
                 aria-valuemin="0"
                 aria-valuemax="100"
@@ -68,7 +68,7 @@ const Skills = () => {
                 className="progress-bar bg-info"
                 role="progressbar"
                 aria-label="Danger example"
-                style="width: 50%"
+                style={{"width: 50%"}}
                 aria-valuenow="50"
                 aria-valuemin="0"
                 aria-valuemax="100"
@@ -81,7 +81,7 @@ const Skills = () => {
                 className="progress-bar bg-success"
                 role="progressbar"
                 aria-label="Danger example"
-                style="width: 50%"
+                style={{"width: 50%"}}
                 aria-valuenow="50"
                 aria-valuemin="0"
                 aria-valuemax="100"
