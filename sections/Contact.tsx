@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 const Contact = () => {
-  return;
+  return (
   <section id="contact">
     <div className="container my-5 bg-promary">
       <div className="row mb-5">
@@ -52,7 +52,8 @@ const Contact = () => {
         </div>
       </div>
     </div>
-  </section>;
+  </section>
+  );
 };
 
 export default Contact;
