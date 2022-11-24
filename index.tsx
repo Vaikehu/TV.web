@@ -12,9 +12,8 @@ import {
 import App from './App';
 import Blog from './pages/Blog';
 import Portfolio from './pages/Portfolio';
-import Netflix from './pages/Netflix';
+import Pension from './pages/Pension';
 import Slider from './components/Silder';
-import About from './section/About';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -23,7 +22,7 @@ const router = createBrowserRouter([
   { path: '/', element: <App /> },
   { path: '/blog', element: <Blog /> },
   { path: '/portfolio', element: <Portfolio /> },
-  { path: '/netflix', element: <Netflix /> },
+  { path: '/Pension', element: <Pension/> },
 ]);
 
 root.render(
