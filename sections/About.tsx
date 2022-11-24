@@ -30,8 +30,14 @@ const About = () => {
               en tant que développeur web.
             </p>
             <div className="buttons">
-              <button className="btn btn-primary px-5 py-2">
-                Télécharger CV
+              <button>
+                <a
+                  class="btn btn-primary text-white px-4 py-2"
+                  target="_blank"
+                  href="https://vaikehu.github.io/C.Vjs-vpik9b/"
+                >
+                  Telecharger CV
+                </a>
               </button>
               <button className="btn btn-outline-primary text-darck px-4 py-2">
                 Contact
