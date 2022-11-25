@@ -32,7 +32,7 @@ const About = () => {
             <div className="buttons">
               <button>
                 <a
-                  class="btn btn-primary text-white px-4 py-2"
+                  className="btn btn-success text-white px-4 py-2"
                   target="_blank"
                   href="https://vaikehu.github.io/C.Vjs-vpik9b/"
                 >

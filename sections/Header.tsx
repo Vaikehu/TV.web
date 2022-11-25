@@ -17,7 +17,7 @@ const Header = () => {
                 target="_blank"
                 href="https://vaikehu.github.io/TV.blog/"
               >
-                A propos de moi
+                MON BLOG
               </a>
             </div>
           </div>

@@ -117,7 +117,6 @@ const Blog = () => {
               <a href="/docs/5.0/getting-started/introduction/">
                 getting started guide
               </a>
-              .
             </p>
           </div>
         </footer>
