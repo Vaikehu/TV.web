@@ -14,6 +14,7 @@ import Blog from './pages/Blog';
 import Portfolio from './pages/Portfolio';
 import Pension from './pages/Pension';
 import Slider from './components/Silder';
+import Footer from './components/Footer';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -28,5 +29,7 @@ const router = createBrowserRouter([
 root.render(
   <StrictMode>
     <RouterProvider router={router} />
+
+    <Footer />
   </StrictMode>
 );
